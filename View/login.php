@@ -23,7 +23,7 @@ session_start();
         </div>
         <button type="submit" class="btn btn-primary">Đăng Nhập</button>
     </form>
-    <a href="index.php" class="mt-3 d-block">Back to List</a>
+    <a href="../index.php" class="mt-3 d-block">Back to List</a>
 </div>
 
 </body>
